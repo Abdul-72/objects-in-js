@@ -1,0 +1,6 @@
+map reduce filter 
+
+execution context 
+call bind apply
+ promises
+ es5 vs es6  
